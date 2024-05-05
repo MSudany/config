@@ -23,4 +23,4 @@ spring:
 
 application:
   config:
-    passengers-url: http://localhost:8090/api/tickets
+    passengers-url: http://localhost:8090/api/passengers
