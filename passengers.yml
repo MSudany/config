@@ -9,10 +9,10 @@ server:
   port: 8090
 spring:
   application:
-    name: tickets
+    name: passengers
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://localhost:5433/tickets
+    url: jdbc:postgresql://localhost:5433/passengers
     username: postgres
     password: 1234
   jpa:
