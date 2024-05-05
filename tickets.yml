@@ -9,7 +9,7 @@ server:
   port: 8090
 spring:
   application:
-    name: passengers
+    name: tickets
   datasource:
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5433/passengers
