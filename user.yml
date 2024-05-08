@@ -12,7 +12,7 @@ server:
 
 spring:
   application:
-    name: trains
+    name: users
   datasource:
     platform: postgres
     driver-class-name: org.postgresql.Driver
